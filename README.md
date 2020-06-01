@@ -10,7 +10,7 @@ In particular, the database presents a set of audio sequences containing the aco
 |M - Moderate rain                   | [2 - 6] mm/h                |
 |H - Heavy rain                   | [6 - 10] mm/h               |
 |VH - Very Heavy rain                   | [10 - 18] mm/h              |
-|S - Shower rain                   | [18 - 30] 0.5 mm/h          |
+|S - Shower rain                   | [18 - 30] mm/h          |
 |C - Cloudburst rain                   | > 30 mm/h                   |
 
 
